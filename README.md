@@ -5,7 +5,7 @@ Some pathing issue might exist. Change if you see fit
 
 
 
-THe main program VITTransferLearning is seperated into 3 parts.
+The main program VITTransferLearning is seperated into 3 parts.
 
 Dataset we used are avaialbe as a direct download link from my drive, see the code comment for more information
 
