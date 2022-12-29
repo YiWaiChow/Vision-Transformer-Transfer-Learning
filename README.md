@@ -4,8 +4,10 @@ fileprocessing.py precoess the dataset and put the images into its corresponding
 Some pathing issue might exist. Change if you see fit
 
 
+
 THe main program VITTransferLearning is seperated into 3 parts.
 
+Dataset we used are avaialbe as a direct download link from my drive, see the code comment for more information
 
 Note that you only need to run sections 1 and 3 for testing the models. Section 2 is for the fine tuning on HAM10000 dataset.
 
