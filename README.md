@@ -3,11 +3,20 @@
 fileprocessing.py precoess the dataset and put the images into its corresponding folder based on their label.
 Some pathing issue might exist. Change if you see fit
 
-
-
-The main program VITTransferLearning is seperated into 3 parts.
+# Dataset
 
 Dataset we used are avaialbe as a direct download link from my drive, see the code comment for more information
+
+here are the links for the preprocessed dataset and the working dir.
+
+Preproessed dataset: https://drive.google.com/file/d/1L2Rj_ZY2rN5ay4GhhpeNfBJ7iAQ1meew/view?usp=share_link
+
+Working dir:https://drive.google.com/file/d/1-JdK5rYcIi-NU8Nnj8nGKoE4OYW1L1Ol/view?usp=share_link
+
+
+# Program instruction 
+
+The main program VITTransferLearning is seperated into 3 parts.
 
 Note that you only need to run sections 1 and 3 for testing the models. Section 2 is for the fine tuning on HAM10000 dataset.
 
